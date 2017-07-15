@@ -6,4 +6,5 @@ var lunch = "pizza";
 console.log(lunch);
 
 var name = "benjamin";
+name ="Huang";
 console.log(name);
